@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Player1
+  - Player2
+  - Limit
+  - PlatformLimit
+  - Wall
+  - Cartel
+  - Arrow
+  - Attack1_W1
+  - Attack2_W1
+  - Attack1_W2
+  - Attack2_W2
+  - Attack3_W2
+  - Attack1_W3
+  - Attack2_W3
+  - Attack3_W3
+  - FireBall
+  - SuperAttack_W2
+  - SuperAttack_W3
+  - SuperAttack_W4
+  - Fire
+  - Attack1_W4
+  - Attack2_W4
+  - Stone
+  - IsWeak
+  - Item1
+  - Item2
+  - Item3
+  - Item4
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bd70797234d15041ae613ebc81ed317, type: 3}
+  m_Name: New Cartel Database
+  m_EditorClassIdentifier: 
+  cartel:
+  - CartelObject: {fileID: 1081948226567654572, guid: 771afadf52572ab4e90656c083acbd33, type: 3}
+    CartelName: Cartel1
+  - CartelObject: {fileID: 6187959154238541811, guid: b1606e8528719074e93b1523c00f04d0, type: 3}
+    CartelName: Cartel2
+  - CartelObject: {fileID: 3498430013035616287, guid: 3d9de7e8bca02f24e999248bd4f17cba, type: 3}
+    CartelName: Cartel3
+  - CartelObject: {fileID: 5222654530834858335, guid: 8b4abb79070f2284dbc251044da10f30, type: 3}
+    CartelName: Cartel4

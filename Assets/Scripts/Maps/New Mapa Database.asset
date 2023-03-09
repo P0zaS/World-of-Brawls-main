@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f520e0ae8af2a8144acea1f1664d0db7, type: 3}
+  m_Name: New Mapa Database
+  m_EditorClassIdentifier: 
+  mapa:
+  - mapaName: Islas Perdidas
+    mapaGameObject: {fileID: 4146874903383628652, guid: dc7e583330972fe4c9345dc41a61edf7, type: 3}
+    mapaSprite: {fileID: 21300000, guid: 59cc1265c758faf40bf0ba8477794c03, type: 3}
+  - mapaName: Suburbios
+    mapaGameObject: {fileID: 3842921894819850907, guid: 971aa53d92b42574b8e5c849a9347b58, type: 3}
+    mapaSprite: {fileID: 21300000, guid: 92a44eaa06405cd4887513d80df7704a, type: 3}
+  - mapaName: Bosque Negro
+    mapaGameObject: {fileID: 1529893288333707272, guid: d4812e97eef3d944db79c3604c8bda83, type: 3}
+    mapaSprite: {fileID: 21300000, guid: d3d0fa724e0a07349bacc298cc149733, type: 3}
